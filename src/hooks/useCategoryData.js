@@ -1,7 +1,7 @@
 
 import useAllProducts from "./useAllProducts";
-const useCategoryData = ({ category }) => {
-
+const useCategoryData = ({ category,rating }) => {
+    console.log(rating)
     const allProducts = useAllProducts()
     if (allProducts === null) {
         
@@ -10,10 +10,17 @@ const useCategoryData = ({ category }) => {
     if (category === "All-Products") {
         return allProducts
     }
-    else {
-        const categores = allProducts.filter(categorys => categorys.category === category)
+    if(rating){
+        const categores = allProducts.filter(categorys => categorys.rating === rating)
+        
         return categores
     }
+    else {
+        const categores = allProducts.filter(categorys => categorys.category === category)
+        
+        return categores
+    }
+    
 };
 
 export default useCategoryData;

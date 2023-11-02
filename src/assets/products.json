@@ -5,7 +5,8 @@
       "title": "Cool T-Shirt",
       "description": "A stylish and comfortable t-shirt for everyday wear.",
       "price": 19.99,
-      "category": "T-Shirts"
+      "category": "T-Shirts",
+      "rating":1
     },
     {
       "id": 2,
@@ -13,7 +14,8 @@
       "title": "Slim Fit Jeans",
       "description": "Classic denim jeans with a slim and modern fit.",
       "price": 39.99,
-      "category": "Jeans"
+      "category": "Jeans",
+      "rating":1
     },
     {
       "id": 3,
@@ -21,7 +23,8 @@
       "title": "Casual Plaid Shirt",
       "description": "A versatile plaid shirt suitable for various occasions.",
       "price": 29.99,
-      "category": "Shirts"
+      "category": "Shirts",
+      "rating":1
     },
     {
       "id": 4,
@@ -29,7 +32,8 @@
       "title": "Leather Biker Jacket",
       "description": "A stylish leather jacket with a biker-inspired design.",
       "price": 79.99,
-      "category": "Jackets"
+      "category": "Jackets",
+      "rating":1
     },
     {
       "id": 5,
@@ -37,7 +41,8 @@
       "title": "Cozy Knit Sweater",
       "description": "A warm and cozy knit sweater to keep you warm in winter.",
       "price": 49.99,
-      "category": "Sweaters"
+      "category": "Sweaters",
+      "rating":1
     },
     {
       "id": 6,
@@ -45,7 +50,8 @@
       "title": "Graphic Print T-Shirt",
       "description": "A trendy graphic print t-shirt for a casual look.",
       "price": 21.99,
-      "category": "T-Shirts"
+      "category": "T-Shirts",
+      "rating":1
     },
     {
       "id": 7,
@@ -53,7 +59,8 @@
       "title": "Classic Blue Jeans",
       "description": "Timeless classic blue jeans for any occasion.",
       "price": 34.99,
-      "category": "Jeans"
+      "category": "Jeans",
+      "rating":1
     },
     {
       "id": 8,
@@ -61,7 +68,8 @@
       "title": "Striped Dress Shirt",
       "description": "A sophisticated striped dress shirt for formal events.",
       "price": 27.99,
-      "category": "Shirts"
+      "category": "Shirts",
+      "rating":1
     },
     {
       "id": 9,
@@ -69,7 +77,8 @@
       "title": "Hooded Winter Jacket",
       "description": "A warm and stylish hooded jacket for cold weather.",
       "price": 69.99,
-      "category": "Jackets"
+      "category": "Jackets",
+      "rating":1
     },
     {
       "id": 10,
@@ -77,7 +86,8 @@
       "title": "Cable Knit Sweater",
       "description": "A classic cable knit sweater to add style to your wardrobe.",
       "price": 44.99,
-      "category": "Sweaters"
+      "category": "Sweaters",
+      "rating":1
     },
     {
       "id": 11,
@@ -85,7 +95,8 @@
       "title": "Vintage Logo T-Shirt",
       "description": "A retro-inspired t-shirt with a vintage logo design.",
       "price": 22.99,
-      "category": "T-Shirts"
+      "category": "T-Shirts",
+      "rating":1
     },
     {
       "id": 12,
@@ -93,7 +104,8 @@
       "title": "Distressed Skinny Jeans",
       "description": "Trendy distressed skinny jeans for a fashionable look.",
       "price": 49.99,
-      "category": "Jeans"
+      "category": "Jeans",
+      "rating":1
     },
     {
       "id": 13,
@@ -101,7 +113,8 @@
       "title": "Floral Print Shirt",
       "description": "A stylish shirt with a floral print, perfect for summer.",
       "price": 31.99,
-      "category": "Shirts"
+      "category": "Shirts",
+      "rating":1
     },
     {
       "id": 14,
@@ -109,7 +122,8 @@
       "title": "Quilted Bomber Jacket",
       "description": "A fashionable quilted bomber jacket for a casual look.",
       "price": 59.99,
-      "category": "Jackets"
+      "category": "Jackets",
+      "rating":1
     },
     {
       "id": 15,
@@ -128,7 +142,7 @@
       "category": "T-Shirts"
     },
     {
-      "id": 17,
+      "id": 17, 
       "image": "https://i.ibb.co/jfyRv3x/jens-4.webp",
       "title": "Rugged Work Jeans",
       "description": "Sturdy work jeans designed for durability and functionality.",

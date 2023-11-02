@@ -11,7 +11,5 @@ export const ratingSortingData = [
     { "rating": 4 },
     { "rating": 3 },
     { "rating": 2 },
-    { "rating": 1 },
-  
-    
+    { "rating": 1 }, 
   ]
