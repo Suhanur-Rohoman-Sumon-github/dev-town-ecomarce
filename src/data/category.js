@@ -1,5 +1,5 @@
 export const categoryData = [
-    { "name": "all-products" },
+    { "name": "All-Products" },
     { "name": "T-Shirts" },
     { "name": "Jeans" },
     { "name": "Shirts" },
