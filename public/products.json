@@ -1,0 +1,242 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/Jz4qnCz/tshart-1.webp",
+      "title": "Cool T-Shirt",
+      "description": "A stylish and comfortable t-shirt for everyday wear.",
+      "price": 19.99,
+      "category": "T-Shirts"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/tY59phV/jens-1.webp",
+      "title": "Slim Fit Jeans",
+      "description": "Classic denim jeans with a slim and modern fit.",
+      "price": 39.99,
+      "category": "Jeans"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/9sqgSsN/shirts-1.webp",
+      "title": "Casual Plaid Shirt",
+      "description": "A versatile plaid shirt suitable for various occasions.",
+      "price": 29.99,
+      "category": "Shirts"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/NmqKPMR/jekets-1.webp",
+      "title": "Leather Biker Jacket",
+      "description": "A stylish leather jacket with a biker-inspired design.",
+      "price": 79.99,
+      "category": "Jackets"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/Z6z1v54/sweters-6.webp",
+      "title": "Cozy Knit Sweater",
+      "description": "A warm and cozy knit sweater to keep you warm in winter.",
+      "price": 49.99,
+      "category": "Sweaters"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/wKTtRbP/tshart-2.webp",
+      "title": "Graphic Print T-Shirt",
+      "description": "A trendy graphic print t-shirt for a casual look.",
+      "price": 21.99,
+      "category": "T-Shirts"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/d75hY04/jens-2.webp",
+      "title": "Classic Blue Jeans",
+      "description": "Timeless classic blue jeans for any occasion.",
+      "price": 34.99,
+      "category": "Jeans"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/kcQXgsH/shirts-2.webp",
+      "title": "Striped Dress Shirt",
+      "description": "A sophisticated striped dress shirt for formal events.",
+      "price": 27.99,
+      "category": "Shirts"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/jbKytwT/jekets-2.webp",
+      "title": "Hooded Winter Jacket",
+      "description": "A warm and stylish hooded jacket for cold weather.",
+      "price": 69.99,
+      "category": "Jackets"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/vxT1Z4F/sweters-5.webp",
+      "title": "Cable Knit Sweater",
+      "description": "A classic cable knit sweater to add style to your wardrobe.",
+      "price": 44.99,
+      "category": "Sweaters"
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/gvq5gY4/tshart-3.webp",
+      "title": "Vintage Logo T-Shirt",
+      "description": "A retro-inspired t-shirt with a vintage logo design.",
+      "price": 22.99,
+      "category": "T-Shirts"
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/VYsd4k2/jens-3.webp",
+      "title": "Distressed Skinny Jeans",
+      "description": "Trendy distressed skinny jeans for a fashionable look.",
+      "price": 49.99,
+      "category": "Jeans"
+    },
+    {
+      "id": 13,
+      "image": "https://i.ibb.co/QDhwY3F/shirts-3.webp",
+      "title": "Floral Print Shirt",
+      "description": "A stylish shirt with a floral print, perfect for summer.",
+      "price": 31.99,
+      "category": "Shirts"
+    },
+    {
+      "id": 14,
+      "image": "https://i.ibb.co/74tBVM5/jekets-3.webp",
+      "title": "Quilted Bomber Jacket",
+      "description": "A fashionable quilted bomber jacket for a casual look.",
+      "price": 59.99,
+      "category": "Jackets"
+    },
+    {
+      "id": 15,
+      "image": "https://i.ibb.co/B4jCxqG/sweters-4.webp",
+      "title": "Cashmere Blend Sweater",
+      "description": "A luxurious cashmere blend sweater for ultimate comfort.",
+      "price": 79.99,
+      "category": "Sweaters"
+    },
+    {
+      "id": 16,
+      "image": "https://i.ibb.co/tQDCD66/tshart-4.webp",
+      "title": "Graphic Pop Art T-Shirt",
+      "description": "An artistic pop art-inspired graphic t-shirt for a unique style.",
+      "price": 24.99,
+      "category": "T-Shirts"
+    },
+    {
+      "id": 17,
+      "image": "https://i.ibb.co/jfyRv3x/jens-4.webp",
+      "title": "Rugged Work Jeans",
+      "description": "Sturdy work jeans designed for durability and functionality.",
+      "price": 39.99,
+      "category": "Jeans"
+    },
+    {
+      "id": 18,
+      "image": "https://i.ibb.co/fxqry9y/shirts-4.webp",
+      "title": "Oxford Button-Down Shirt",
+      "description": "A classic oxford button-down shirt for a timeless look.",
+      "price": 29.99,
+      "category": "Shirts"
+    },
+    {
+      "id": 19,
+      "image": "https://i.ibb.co/vw6W3W6/jekets-4.webp",
+      "title": "Faux Leather Moto Jacket",
+      "description": "A stylish faux leather moto jacket with a sleek design.",
+      "price": 54.99,
+      "category": "Jackets"
+    },
+    {
+      "id": 20,
+      "image": "https://i.ibb.co/KyjLtCX/sweters-3.webp",
+      "title": "Chunky Knit Cardigan",
+      "description": "A cozy chunky knit cardigan for a warm and rustic style.",
+      "price": 49.99,
+      "category": "Sweaters"
+    },
+    {
+      "id": 21,
+      "image": "https://i.ibb.co/hCx6CzD/tshart-5.webp",
+      "title": "Striped Pocket Tee",
+      "description": "A casual striped pocket tee for a relaxed look.",
+      "price": 17.99,
+      "category": "T-Shirts"
+    },
+    {
+      "id": 22,
+      "image": "https://i.ibb.co/sQxKwqj/jens-5.webp",
+      "title": "Bootcut Denim Jeans",
+      "description": "Classic bootcut denim jeans with a timeless style.",
+      "price": 42.99,
+      "category": "Jeans"
+    },
+    {
+      "id": 23,
+      "image": "https://i.ibb.co/NKhcFpF/shirts-5.webp",
+      "title": "Checkered Flannel Shirt",
+      "description": "A warm checkered flannel shirt for outdoor activities.",
+      "price": 33.99,
+      "category": "Shirts"
+    },
+    {
+      "id": 24,
+      "image": "https://i.ibb.co/jV3tpCY/jekets-5.webp",
+      "title": "Puffer Parka Jacket",
+      "description": "A cozy and insulated puffer parka jacket for winter.",
+      "price": 64.99,
+      "category": "Jackets"
+    },
+    {
+      "id": 25,
+      "image": "https://i.ibb.co/G29J7Nb/sweters-2.webp",
+      "title": "Turtleneck Sweater",
+      "description": "A classic turtleneck sweater to keep you warm and stylish.",
+      "price": 54.99,
+      "category": "Sweaters"
+    },
+    {
+      "id": 26,
+      "image": "https://i.ibb.co/xGGh5TP/tshart-6.webp",
+      "title": "Vintage Rock Band Tee",
+      "description": "A vintage-inspired rock band t-shirt for music lovers.",
+      "price": 19.99,
+      "category": "T-Shirts"
+    },
+    {
+      "id": 27,
+      "image": "https://i.ibb.co/GVZ3Zwg/jens-6.webp",
+      "title": "Cargo Utility Jeans",
+      "description": "Functional cargo utility jeans with multiple pockets.",
+      "price": 45.99,
+      "category": "Jeans"
+    },
+    {
+      "id": 28,
+      "image": "https://i.ibb.co/1rTP5s1/shirts-6.webp",
+      "title": "Linen Button-Up Shirt",
+      "description": "A lightweight linen button-up shirt for summer comfort.",
+      "price": 28.99,
+      "category": "Shirts"
+    },
+    {
+      "id": 29,
+      "image": "https://i.ibb.co/YbfjkX3/jekets-6.webp",
+      "title": "Suede Bomber Jacket",
+      "description": "A stylish suede bomber jacket for a trendy look.",
+      "price": 59.99,
+      "category": "Jackets"
+    },
+    {
+      "id": 30,
+      "image": "https://i.ibb.co/KhHYQMg/sweters-1.webp",
+      "title": "Cowl Neck Sweater",
+      "description": "A cozy cowl neck sweater for a chic and warm style.",
+      "price": 49.99,
+      "category": "Sweaters"
+    }
+  ]
