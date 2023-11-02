@@ -1,13 +1,13 @@
+import useAllProducts from "../hooks/useAllProducts";
 
-import useAllProducts from "./useAllProducts";
-const useCategoryData = ({ category }) => {
 
+const Datas = ({category}) => {
     const allProducts = useAllProducts()
     if (allProducts === null) {
         
         return null;
       }
-    if (category === "All-Products") {
+    if (category === "all-products") {
         return allProducts
     }
     else {
@@ -16,4 +16,4 @@ const useCategoryData = ({ category }) => {
     }
 };
 
-export default useCategoryData;
+export default Datas;
