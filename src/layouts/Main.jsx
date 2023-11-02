@@ -10,12 +10,12 @@ import Marquee from "react-fast-marquee";
 
 const Main = () => {
     const categoryDatas = categoryData
-    const ratingSortingDatas = ratingSortingData
+    
     const alldata = useAllProducts()
     const [datas, setDatas] = useState()
-    const [ratings, setRatings] = useState()
+    
     const categoryDataes = useCategoryData({ category: datas  })
-    const ratingses = useCategoryData({ category: datas ,rating:  ratings})
+    
     return (
         <div className="">
             <div className="grid h-10 flex-grow card bg-base-200 rounded-box place-items-center ">

@@ -3,18 +3,16 @@ import SingleMapData from "./SingleMapData";
 
 
 const MapData = ({datas}) => {
-  // Pagination settings
-  const itemsPerPage = 6; // Display 6 items per page
-  const [currentPage, setCurrentPage] = useState(1);
+    console.log(datas)
+   // Pagination settings
+   const itemsPerPage = 3;
+   const [currentPage, setCurrentPage] = useState(1);
 
-  // Calculate the starting and ending indices for the current page
-  const startIndex = (currentPage - 1) * itemsPerPage;
-  const endIndex = startIndex + itemsPerPage;
-
-  // Slice the data to display on the current page
-  const currentData = datas.slice(startIndex, endIndex);
-
-  // Calculate the total number of pages
+  // Calculate pagination parameters
+  const indexOfLastItem = currentPage * itemsPerPage;
+  const indexOfFirstItem = indexOfLastItem - itemsPerPage;
+  const currentData = datas.slice(indexOfFirstItem, indexOfLastItem);
+  // Calculate total number of pages
   const totalPages = Math.ceil(datas.length / itemsPerPage);
 
   // Pagination buttons
@@ -37,7 +35,7 @@ const MapData = ({datas}) => {
     return (
        <>
         <div className="md:grid grid-cols-3 gap-4 mt-48 hover:gap-7 md:mt-0">
-            {datas.map(data=><SingleMapData key={data.id} data={data}></SingleMapData>)}
+            {currentData.map(data=><SingleMapData key={data.id} data={data}></SingleMapData>)}
         </div>
           {/* Pagination buttons */}
       <div className="flex justify-center mt-4 space-x-2">
