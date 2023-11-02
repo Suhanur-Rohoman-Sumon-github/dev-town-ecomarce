@@ -23,7 +23,7 @@ const MapData = ({datas}) => {
         key={i}
         className={`${
           currentPage === i
-            ? "bg-blue-500 text-white"
+            ? "bg-success text-white"
             : "bg-gray-200 text-gray-700"
         } py-2 px-4 mr-2 rounded focus:outline-none`}
         onClick={() => setCurrentPage(i)}
@@ -38,7 +38,7 @@ const MapData = ({datas}) => {
             {currentData.map(data=><SingleMapData key={data.id} data={data}></SingleMapData>)}
         </div>
           {/* Pagination buttons */}
-      <div className="flex justify-center mt-4 space-x-2">
+      <div className="flex justify-center mt-10 space-x-2">
         {paginationButtons}
       </div>
        </>
